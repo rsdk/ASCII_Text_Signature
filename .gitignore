@@ -1,0 +1,31 @@
+# Project exclude paths
+/.gradle/
+/ASCII Text Signature/task/build/
+/ASCII Text Signature/task/out/
+/ASCII Text Signature/task/out/production/classes/
+/Problems/A small version of the Battleship game/out/
+/Problems/A small version of the Battleship game/out/production/classes/
+/Problems/Beyond the word/out/
+/Problems/Beyond the word/out/production/classes/
+/Problems/Counting/out/
+/Problems/Counting/out/production/classes/
+/Problems/Find the first occurrence of the word  the/out/
+/Problems/Find the first occurrence of the word  the/out/production/classes/
+/Problems/First digit/out/
+/Problems/First digit/out/production/classes/
+/Problems/Generating passwords/out/
+/Problems/Generating passwords/out/production/classes/
+/Problems/Getting letters from the Alphabet/out/
+/Problems/Getting letters from the Alphabet/out/production/classes/
+/Problems/Just checking/out/
+/Problems/Just checking/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/The percentage of G and C characters/out/
+/Problems/The percentage of G and C characters/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The roots of equation/out/
+/Problems/The roots of equation/out/production/classes/
+/Problems/The sum of N numbers/out/
+/Problems/The sum of N numbers/out/production/classes/
